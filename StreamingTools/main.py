@@ -10,7 +10,7 @@ lock = Lock()
 # Get the directory where main.py is located
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# REDLIX
+# DP3MEDIA
 ## Streaming Tools Alpha v.1.0
 # This main.py Controls the Web Interface and all the Effects for StreamingTools
 # As of 30.10.2025
@@ -46,7 +46,7 @@ CONTROL_HTML = """
 <html>
 <head>
     <meta charset="utf-8"/>
-    <title>REDLIX | Streaming Tools Alpha v.1.0</title>
+    <title>DP3MEDIA | Streaming Tools Beta v.2.0</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -462,7 +462,7 @@ CONTROL_HTML = """
         <div class="header">
             <div class="header-left">
                 <div class="header-logo">
-                    <img src="media/headerlogo.png" alt="REDLIX Streaming Tools Logo">
+                    <img src="media/headerlogo.png" alt="DP3MEDIA Streaming Tools Logo">
                 </div>
                 <h1 class="header-title">STREAMING TOOLS</h1>
             </div>
@@ -578,22 +578,22 @@ CONTROL_HTML = """
         <div class="footer">
             <div class="footer-left">
                 <div class="footer-logo">
-                    <img src="media/redlixlogo.svg" alt="REDLIX Logo">
+                    <img src="media/DP3MEDIAlogo.svg" alt="DP3MEDIA Logo">
                 </div>
                 <div class="footer-info">
-                    <div class="footer-title">REDLIX STREAMING TOOLS</div>
+                    <div class="footer-title">DP3MEDIA STREAMING TOOLS</div>
                     <div class="footer-subtitle">Professional streaming overlay system</div>
                 </div>
             </div>
             <div class="footer-right">
                 <div class="footer-links">
-                    <a href="https://redlix.xyz/" target="_blank" class="footer-link">
+                    <a href="https://DP3MEDIA.xyz/" target="_blank" class="footer-link">
                         <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
                         </svg>
                         Home
                     </a>
-                    <a href="https://redlix.xyz/streaming-tools" target="_blank" class="footer-link">
+                    <a href="https://DP3MEDIA.xyz/streaming-tools" target="_blank" class="footer-link">
                         <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
                         </svg>
@@ -692,7 +692,7 @@ DISPLAY_HTML = """
 <html>
 <head>
     <meta charset="utf-8"/>
-    <title>Stream Display for OBS v.1.0 / PART OF STREAMING TOOLS REDLIX</title>
+    <title>Stream Display for OBS v.1.0 / PART OF STREAMING TOOLS DP3MEDIA</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@700&display=swap" rel="stylesheet">
     <style>
         body {
