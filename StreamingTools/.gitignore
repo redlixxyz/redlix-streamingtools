@@ -2,7 +2,9 @@
 venv/
 ENV/
 env/
+ven/
 .venv/
+.ven/
 
 # Ignore Python cache files
 __pycache__/
