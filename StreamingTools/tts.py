@@ -7,8 +7,8 @@ import io
 import os
 import tempfile
 
-# REDLIX Streaming Tools
-### This File is Part of StreamingTools Alpha v.1.0. 
+# DP3MEDIA Streaming Tools
+### This File is Part of StreamingTools Beta v.2.0. 
 # TTS Module from 30.10.2025
 
 class TTSManager:
